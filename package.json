@@ -8,6 +8,7 @@
 		"build:base-css": "tailwindcss build ./styles/tailwind.base.css -o ./styles/base.css"
 	},
 	"dependencies": {
+		"@emotion/core": "^11.0.0",
 		"@emotion/react": "^11.1.1",
 		"@emotion/styled": "11.0.0",
 		"react": "17.0.1",
