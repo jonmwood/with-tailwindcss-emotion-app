@@ -3,6 +3,7 @@ import { Global } from '@emotion/react'
 import xw from 'xwind'
 import { AppProps } from 'next/app'
 import '../styles/base.css'
+// import {} from '@emotion/react/types/css-prop'
 
 function App({ Component, pageProps }: AppProps) {
 	return (
